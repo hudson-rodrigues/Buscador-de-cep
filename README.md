@@ -1,3 +1,7 @@
+![image](https://user-images.githubusercontent.com/34218731/167337417-7504a457-7057-4b63-bbc8-6b7e5bb2a088.png)
+<br>
+Aplicação feita em react.js para buscar cep.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
